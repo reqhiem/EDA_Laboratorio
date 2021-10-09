@@ -1,10 +1,10 @@
-# Descripcion
+# DescripciÃ³n
 
-El presente repositorio alberga el código fuente de las implementaciones de los diferentes métodos de ordenamiento en los lenguajes C++, Pythn y Rust, como parte del laboratorio de Algoritmos Y Coste computacional del Curso de Estructura de Datos Avanzados de la carrera profesional de Ciencia de Computación.
+El presente repositorio alberga el cï¿½digo fuente de las implementaciones de los diferentes mï¿½todos de ordenamiento en los lenguajes C++, Pythn y Rust, como parte del laboratorio de Algoritmos Y Coste computacional del Curso de Estructura de Datos Avanzados de la carrera profesional de Ciencia de Computaciï¿½n.
 
 # Integrantes
 
-1. ESPINOZA PEÑALOZA, Edgar Alfonso
+1. ESPINOZA PEï¿½ALOZA, Edgar Alfonso
 
 2. PERCA QUISPE, Joel Cristian
 
