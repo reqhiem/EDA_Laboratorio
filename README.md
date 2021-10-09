@@ -1,6 +1,6 @@
 # Descripción
 
-El presente repositorio alberga el c�digo fuente de las implementaciones de los diferentes m�todos de ordenamiento en los lenguajes C++, Pythn y Rust, como parte del laboratorio de Algoritmos Y Coste computacional del Curso de Estructura de Datos Avanzados de la carrera profesional de Ciencia de Computaci�n.
+El presente repositorio alberga el código fuente de las implementaciones de los diferentes métodos de ordenamiento en los lenguajes C++, Pythn y Rust, como parte del laboratorio de Algoritmos Y Coste computacional del Curso de Estructura de Datos Avanzados de la carrera profesional de Ciencia de Computación.
 
 # Integrantes
 
