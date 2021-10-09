@@ -4,7 +4,7 @@ El presente repositorio alberga el c�digo fuente de las implementaciones de lo
 
 # Integrantes
 
-1. ESPINOZA PE�ALOZA, Edgar Alfonso
+1. ESPINOZA PEÑALOZA, Edgar Alfonso
 
 2. PERCA QUISPE, Joel Cristian
 
